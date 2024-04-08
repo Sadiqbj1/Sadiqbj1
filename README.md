@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sadiq</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from KPK Pakistan</h3>
 
-- 💬 Ask me about **React,**
-
+- I'm currently working on *Blogging Website*
+- I'm currently learning*HTML>CSS>ReactJs>NodeJs>Bootstrap*
+- I'm looking to collabrate on *Front-End Development*
+  
 - 📫 How to reach me **sadiqbj1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
