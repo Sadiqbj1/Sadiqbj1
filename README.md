@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com//m_sadiq_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/m_sadiq_pk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-sadiq-52ab181b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sadiq-52ab181b3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asma-sadiq-pak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sadiq-pak" height="30" width="40" /></a>
 <a href="https://fb.com/muhammadsadiq.bajaury?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadsadiq.bajaury?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com//m_sadiq_pk?igsh=mwj3edcyzjnmewlidw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/m_sadiq_pk?igsh=mwj3edcyzjnmewlidw==" height="30" width="40" /></a>
 <a href="https://medium.com//@sadiqbj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="/@sadiqbj1" height="30" width="40" /></a>
